@@ -1,0 +1,21 @@
+body{
+    color:red;
+}
+.black-border {
+    border: 5px solid black;
+}
+#green-background { 
+    background-color: green;
+}
+#yellow-background {
+    background-color: yellow;
+}
+#black-background {
+    background-color: black;
+}
+a {
+    color:red
+}
+article{
+    font-family: Arial, Helvetica, sans-serif;
+}
